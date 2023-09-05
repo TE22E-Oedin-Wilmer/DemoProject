@@ -1,0 +1,22 @@
+body{
+display: flex; 
+flex-direction: column;
+align-items: center;
+    color: white;
+background-color: darkslategray;
+}
+button{
+    color: greenyellow;
+    height: 40px; width: 50px;
+
+}
+img{
+height: 300px; width: 300;
+
+
+}
+
+button{
+     height: 40px; width: 50px
+
+}
